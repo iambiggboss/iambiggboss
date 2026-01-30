@@ -1,25 +1,46 @@
 # 👋 Hi, I’m BiggBoss
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Web+Development+%7C+Networking;Full-Spectrum+IT+Solutions;Building+Secure+%26+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+Web+Development+%7C+Networking;Full-Spectrum+IT+%26+Software+Solutions;Security-First+Engineering+Mindset" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iambiggboss&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I operate across the **full IT spectrum** — cybersecurity, networking, software development, systems administration, and enterprise IT solutions. My approach is **security-first**, practical, and focused on real-world impact.
+I operate across the **entire IT ecosystem** — cybersecurity, networking, software engineering, systems administration, and enterprise IT solutions. I design and deploy **secure, scalable, and reliable systems** with a security-first mindset.
 
 ---
 
-## 🔐 What I Do
+## 🧩 Services & Expertise
 
-* Cybersecurity & vulnerability assessment
-* Secure web applications & backend systems
-* Networking: routing, switching & infrastructure
-* Linux systems administration
-* Software solutions & deployment
-* IT support, system setup & technical consulting
+### 🔐 Cybersecurity
+
+* Vulnerability assessment & basic penetration testing
+* Network defense & security hardening
+* Secure system design
+
+### 🌐 Networking
+
+* Routing & switching
+* Network design & infrastructure setup
+* TCP/IP & enterprise networking fundamentals
+
+### 💻 Software & Web
+
+* Secure web applications
+* Backend systems & APIs
+* Software deployment & maintenance
+
+### 🖥️ Systems & IT Solutions
+
+* Linux system administration
+* IT support & troubleshooting
+* Infrastructure setup & technical consulting
 
 ---
 
@@ -27,14 +48,14 @@ I operate across the **full IT spectrum** — cybersecurity, networking, softwar
 
 * CCNA (Routing, Switching, Network Fundamentals)
 * Hands-on networking & security labs
-* Secure system & infrastructure design
+* Infrastructure & secure system design
 
 ---
 
-## 🛠️ Core Skills
+## 🛠️ Core Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,github,git,html,css,js,nginx,bash" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,html,css,js,nginx,bash,docker" />
 </p>
 
 ---
@@ -44,7 +65,7 @@ I operate across the **full IT spectrum** — cybersecurity, networking, softwar
 **BiggBoss Tech**
 🌐 [https://biggboss.tech](https://biggboss.tech)
 
-Providing broad **IT solutions**, software services, cybersecurity, networking, and technical support.
+Providing broad **IT solutions**, cybersecurity services, software development, networking, and technical support.
 
 ---
 
@@ -61,6 +82,14 @@ Providing broad **IT solutions**, software services, cybersecurity, networking, 
 
 ---
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/iambiggboss/iambiggboss/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🏅 Badges
 
 <p align="center">
@@ -73,7 +102,7 @@ Providing broad **IT solutions**, software services, cybersecurity, networking, 
 
 ---
 
-## 🔗 Links
+## 🔗 Connect
 
 * GitHub: [https://github.com/iambiggboss](https://github.com/iambiggboss)
 * Company: [https://biggboss.tech](https://biggboss.tech)
@@ -81,5 +110,5 @@ Providing broad **IT solutions**, software services, cybersecurity, networking, 
 ---
 
 <p align="center">
-  <i>Building secure, reliable, and scalable IT solutions across multiple domains.</i>
+  <i>Building secure, scalable, and future-ready IT solutions.</i>
 </p>
