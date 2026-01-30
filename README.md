@@ -1,8 +1,14 @@
 # 👋 Hi, I’m BiggBoss
 
-🛡️ **Cybersecurity • 🌐 Web Development • 📡 Networking • 🧠 IT Solutions**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Web+Development+%7C+Networking;Full-Spectrum+IT+Solutions;Building+Secure+%26+Scalable+Systems" />
+</p>
 
-I work across **the full IT spectrum** — from secure web applications and backend systems to networking, cybersecurity, software solutions, and enterprise IT services. Security, reliability, and scalability are always part of the design.
+---
+
+## 🧠 About Me
+
+I operate across the **full IT spectrum** — cybersecurity, networking, software development, systems administration, and enterprise IT solutions. My approach is **security-first**, practical, and focused on real-world impact.
 
 ---
 
@@ -10,11 +16,10 @@ I work across **the full IT spectrum** — from secure web applications and back
 
 * Cybersecurity & vulnerability assessment
 * Secure web applications & backend systems
-* Networking: routing, switching & infrastructure setup
+* Networking: routing, switching & infrastructure
 * Linux systems administration
-* Software development & deployment
+* Software solutions & deployment
 * IT support, system setup & technical consulting
-* Digital & enterprise IT solutions
 
 ---
 
@@ -22,17 +27,15 @@ I work across **the full IT spectrum** — from secure web applications and back
 
 * CCNA (Routing, Switching, Network Fundamentals)
 * Hands-on networking & security labs
-* Secure system design & infrastructure fundamentals
+* Secure system & infrastructure design
 
 ---
 
-## 🛠️ Technologies & Skills
+## 🛠️ Core Skills
 
-* **Networking:** TCP/IP, Routing, Switching
-* **Security:** Vulnerability analysis, network defense fundamentals
-* **Systems:** Linux, system administration
-* **Web:** Backend-focused development, secure web systems
-* **IT:** Software solutions, infrastructure & technical support
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,github,git,html,css,js,nginx,bash" />
+</p>
 
 ---
 
@@ -45,21 +48,28 @@ Providing broad **IT solutions**, software services, cybersecurity, networking, 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iambiggboss\&show_icons=true\&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iambiggboss&show_icons=true&hide_border=true&theme=transparent" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iambiggboss&hide_border=true&theme=transparent" height="165" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iambiggboss\&layout=compact\&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambiggboss&layout=compact&hide_border=true&theme=transparent" height="165" />
+</p>
 
 ---
 
 ## 🏅 Badges
 
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8A2BE2?style=for-the-badge)
-![Web Development](https://img.shields.io/badge/Web_Development-0A66C2?style=for-the-badge)
-![IT Solutions](https://img.shields.io/badge/IT_Solutions-2E8B57?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Networking-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web_Development-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/IT_Solutions-2E8B57?style=for-the-badge" />
+</p>
 
 ---
 
@@ -70,4 +80,6 @@ Providing broad **IT solutions**, software services, cybersecurity, networking, 
 
 ---
 
-> *Building secure, reliable, and scalable IT solutions across multiple domains.*
+<p align="center">
+  <i>Building secure, reliable, and scalable IT solutions across multiple domains.</i>
+</p>
