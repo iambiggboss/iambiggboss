@@ -52,10 +52,16 @@ I operate across the **entire IT ecosystem** — cybersecurity, networking, soft
 
 ---
 
-## 🛠️ Core Technologies
+## 🛠️ Core Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,html,css,js,nginx,bash,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,github,gitlab,bash,powershell,html,css,js,nodejs,python,php,mysql,postgres,mongodb,nginx,apache,docker,kubernetes,aws,cloudflare,terraform,vscode,postman,wireshark,linux" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Networking-TCP%2FIP%20%7C%20Routing%20%7C%20Switching-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Vulnerability%20Analysis%20%7C%20Hardening%20%7C%20Defense-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Systems-Linux%20%7C%20Windows%20%7C%20Servers-000000?style=for-the-badge" />
 </p>
 
 ---
