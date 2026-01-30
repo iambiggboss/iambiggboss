@@ -78,7 +78,7 @@ I operate across the **entire IT ecosystem** — cybersecurity, networking, soft
 
 ## 🏢 Company
 
-**BiggBoss Tech**
+**BiggBoss Technologies (BiggBoss Tech)**
 🌐 [https://biggboss.tech](https://biggboss.tech)
 
 ### 🧩 Services Matrix
@@ -89,7 +89,7 @@ I operate across the **entire IT ecosystem** — cybersecurity, networking, soft
 ✔ Cloud, DevOps & automation
 ✔ IT support, audits & technical consulting
 
-Providing broad **IT solutions** with a security-first delivery model.
+Delivering **end‑to‑end IT solutions** with a security‑first delivery model.
 
 ---
 
@@ -131,6 +131,22 @@ Providing broad **IT solutions** with a security-first delivery model.
 
 ---
 
+## 🧪 Selected Work (Highlights)
+
+* **Secure Web Platforms** — hardened backends, access control, and monitoring
+* **Network Deployments** — routing, switching, and secure segmentation
+* **IT Systems Modernization** — Linux servers, automation, and reliability upgrades
+
+*(Representative highlights; detailed case studies available on request.)*
+
+---
+
+## 🤝 Availability & Collaboration
+
+Open to **consulting, partnerships, and select engineering projects** aligned with security‑first systems and long‑term reliability.
+
+---
+
 ## 🔗 Connect
 
 * GitHub: [https://github.com/iambiggboss](https://github.com/iambiggboss)
@@ -139,5 +155,5 @@ Providing broad **IT solutions** with a security-first delivery model.
 ---
 
 <p align="center">
-  <i>Building secure, scalable, and future-ready IT solutions.</i>
+  <i>Engineering secure, scalable, and maintainable systems—built to last.</i>
 </p>
