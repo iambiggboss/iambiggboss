@@ -16,6 +16,16 @@ I operate across the **entire IT ecosystem** — cybersecurity, networking, soft
 
 ---
 
+## 🧠 How I Approach IT
+
+* Security is foundational, not an afterthought
+* Systems are designed holistically, not in silos
+* Reliability and maintainability beat short-term hype
+* Automation, documentation, and observability matter
+* Solutions must scale under real-world constraints
+
+---
+
 ## 🧩 Services & Expertise
 
 ### 🔐 Cybersecurity
@@ -71,7 +81,15 @@ I operate across the **entire IT ecosystem** — cybersecurity, networking, soft
 **BiggBoss Tech**
 🌐 [https://biggboss.tech](https://biggboss.tech)
 
-Providing broad **IT solutions**, cybersecurity services, software development, networking, and technical support.
+### 🧩 Services Matrix
+
+✔ Cybersecurity & system hardening
+✔ Networking & infrastructure design
+✔ Software & web solutions
+✔ Cloud, DevOps & automation
+✔ IT support, audits & technical consulting
+
+Providing broad **IT solutions** with a security-first delivery model.
 
 ---
 
