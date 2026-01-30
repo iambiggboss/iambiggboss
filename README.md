@@ -82,10 +82,15 @@ Providing broad **IT solutions**, cybersecurity services, software development, 
 
 ---
 
-## 🐍 Contribution Graph
+## 🌌 Contribution Activity (Live)
 
 <p align="center">
-  <img src="https://github.com/iambiggboss/iambiggboss/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iambiggboss&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iambiggboss&theme=transparent" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iambiggboss&theme=transparent" height="165" />
 </p>
 
 ---
