@@ -24,6 +24,18 @@
 
 ---
 
+<!-- =============================== -->
+
+<!-- CYBER EXECUTIVE VISUAL SYSTEM -->
+
+<!-- =============================== -->
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=CYBER%20EXECUTIVE%20SYSTEMS&text2=SECURITY%20•%20ARCHITECTURE%20•%20SCALE&width=1000&height=180&fontSize=32&fontColor=ffd700&bgColor=0a0a0a" />
+</p>
+
+---
+
 ## 🧠 Identity
 
 * **Nickname / Handle:** Bigg Boss
