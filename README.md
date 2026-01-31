@@ -7,7 +7,7 @@
 <!-- Premium Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=BIGG%20BOSS&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Systems%20Architect%20%7C%20Security%20Engineer%20%7C%20Infrastructure%20Expert&descAlignY=55&descSize=18" width="100%" />
 
-<!-- Typing Animation with Enhanced Speed -->
+<!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=100&lines=Full-Stack+Systems+Architect;Security+%26+Infrastructure+Engineer;Building+Production-Grade+Systems;Secure+%E2%80%A2+Scalable+%E2%80%A2+Observable+%E2%80%A2+Resilient" alt="Typing SVG" />
 
 <!-- Profile Badges -->
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/github/followers/iambiggboss?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0A0E27&logo=github" alt="Followers"/>
 </p>
 
-<!-- Animated GIF Banner -->
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 
 </div>
@@ -355,13 +355,6 @@ mindmap
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefik&logoColor=white)
 
-### 🎨 Design & Productivity
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 </div>
 
 ---
@@ -370,21 +363,30 @@ mindmap
 
 <div align="center">
 
-<!-- Improved Stats Cards with Custom Theme -->
-<img src="https://github-readme-stats.vercel.app/api?username=iambiggboss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117,0C2340&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iambiggboss&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&border_radius=10" alt="GitHub Streak" height="180" />
+<!-- GitHub Stats - Using correct API -->
+<a href="https://github.com/iambiggboss">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iambiggboss&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+</a>
 
-<!-- Language Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambiggboss&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&card_width=445" alt="Top Languages" />
+<!-- GitHub Streak - Using correct service -->
+<a href="https://github.com/iambiggboss">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=iambiggboss&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&currStreakNum=ffffff&dates=8b949e" alt="GitHub Streak"/>
+</a>
 
-<!-- Detailed Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iambiggboss&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" width="100%" />
+<!-- Top Languages - Compact version -->
+<a href="https://github.com/iambiggboss">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambiggboss&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&hide=html,css" alt="Top Languages"/>
+</a>
 
-<!-- Trophy Showcase -->
-<img src="https://github-profile-trophy.vercel.app/?username=iambiggboss&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+<!-- Activity Graph - Using correct service -->
+<a href="https://github.com/iambiggboss">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iambiggboss&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" width="100%"/>
+</a>
 
-<!-- 3D Contribution Graph -->
-<img src="https://raw.githubusercontent.com/iambiggboss/iambiggboss/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+<!-- GitHub Trophies -->
+<a href="https://github.com/iambiggboss">
+  <img src="https://github-profile-trophy.vercel.app/?username=iambiggboss&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" width="100%"/>
+</a>
 
 </div>
 
@@ -402,25 +404,7 @@ mindmap
 
 </div>
 
----
-
-## 📈 Detailed Metrics & Insights
-
-<details>
-<summary><b>📊 Advanced GitHub Metrics (Click to expand)</b></summary>
-<br/>
-
-<div align="center">
-
-<!-- WakaTime Stats -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=iambiggboss&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" alt="WakaTime Stats" />
-
-<!-- Contribution Stats -->
-<img src="https://github-contributor-stats.vercel.app/api?username=iambiggboss&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Contribution Stats" />
-
-</div>
-
-</details>
+> **Note:** Snake animation requires GitHub Actions setup. See [instructions below](#-setup-instructions).
 
 ---
 
@@ -546,27 +530,11 @@ research_areas = {
 
 ---
 
-## 💼 Featured Projects & Open Source
-
-<div align="center">
-
-<!-- Pinned Repositories - Replace with your actual repos -->
-<a href="https://github.com/iambiggboss/project-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iambiggboss&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10" />
-</a>
-<a href="https://github.com/iambiggboss/project-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iambiggboss&repo=project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10" />
-</a>
-
-</div>
-
----
-
 ## 💡 Random Dev Wisdom
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&border_color=00D9FF" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Good%20systems%20survive%20pressure.%20Great%20systems%20thrive%20under%20it.&author=Bigg%20Boss" alt="Dev Quote" />
 
 </div>
 
@@ -645,19 +613,21 @@ If you find value in my projects or insights, consider supporting my work:
 
 ---
 
-## 🛠️ Setup & Configuration
+## 🛠️ Setup Instructions
 
 <details>
-<summary><b>⚙️ How to Use This README (Click for instructions)</b></summary>
+<summary><b>⚙️ How to Get Everything Working (Click for full setup)</b></summary>
+<br/>
 
-### 📋 Prerequisites
-1. Create a repository named `iambiggboss` (matching your GitHub username)
-2. Enable GitHub Actions in repository settings
-3. Create a `README.md` file in the root
+### 📋 Step 1: Repository Setup
+1. Create a repository named exactly `iambiggboss` (matching your username)
+2. Make it **public**
+3. Initialize with a README.md file
+4. Copy the content above into your README.md
 
-### 🐍 Snake Animation Setup
+### 🐍 Step 2: Snake Animation Setup
 
-Create `.github/workflows/snake.yml`:
+Create file: `.github/workflows/snake.yml`
 
 ```yaml
 name: Generate Snake Animation
@@ -670,28 +640,28 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    permissions:
-      contents: write
     
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v3
       
-      - name: Generate snake animation
+      - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: iambiggboss
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
       
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
@@ -699,43 +669,63 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-### 📊 3D Contribution Graph Setup
+### 🚀 Step 3: Activate GitHub Actions
+1. Go to your repository settings
+2. Click **Actions** → **General**
+3. Enable **"Allow all actions and reusable workflows"**
+4. Enable **"Read and write permissions"** for workflows
+5. Save changes
 
-Create `.github/workflows/profile-3d.yml`:
+### ▶️ Step 4: Run the Workflow
+1. Go to **Actions** tab in your repository
+2. Click **Generate Snake Animation** on the left
+3. Click **Run workflow** button
+4. Wait for it to complete (takes ~1 minute)
+5. Refresh your profile - snake animation should appear!
 
-```yaml
-name: Generate 3D Profile
+### ⏰ Step 5: Wait for Stats to Populate
+- **Profile views counter**: Works immediately
+- **GitHub stats card**: Works immediately (shows current stats)
+- **Streak stats**: Works immediately
+- **Language stats**: Works immediately
+- **Activity graph**: Works immediately
+- **Trophies**: Works immediately
+- **Snake animation**: Requires workflow run (see above)
 
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Daily at midnight
-  workflow_dispatch:
+### 🎨 Step 6: Customize Your Profile
+Replace these placeholder links:
+- `https://biggboss.tech` → your actual website
+- `https://linkedin.com/in/yourprofile` → your LinkedIn
+- `https://twitter.com/yourhandle` → your Twitter/X
+- `mailto:contact@biggboss.tech` → your email
+- Discord, Telegram, Dev.to links
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Generate 3D Profile
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: iambiggboss
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "Generated 3D contribution graph" || exit 0
-          git push
-```
+### ✅ Verification Checklist
+- [ ] Repository is public and named `iambiggboss`
+- [ ] README.md is in the root directory
+- [ ] Snake workflow file is at `.github/workflows/snake.yml`
+- [ ] GitHub Actions are enabled
+- [ ] Workflow has run successfully
+- [ ] All personal links are updated
+- [ ] Stats cards are displaying correctly
 
-### 🎨 Customization Tips
+### 🐛 Troubleshooting
 
-1. **Colors:** Replace `00D9FF` with your preferred hex color
-2. **Badges:** Update links to your actual profiles
-3. **Projects:** Replace pinned repos with your actual projects
-4. **Stats:** Wait 24h for stats to populate after setup
+**Snake animation not showing?**
+- Make sure the workflow ran successfully
+- Check that the `output` branch was created
+- Verify the image URL matches your username
+- Wait 5-10 minutes after workflow completion
+
+**Stats cards showing errors?**
+- GitHub's API might be rate-limited (wait 1 hour)
+- Your username might be incorrect in the URLs
+- Repository might be private (make it public)
+
+**Stats showing 0 or incorrect data?**
+- Stats update every 24 hours
+- Make sure you have commits in repositories
+- Check that repositories are public (private repos need tokens)
 
 </details>
 
