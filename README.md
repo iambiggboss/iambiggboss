@@ -1,194 +1,396 @@
 <!-- ===================================== -->
-<!-- BIGG BOSS | SYSTEMS ARCHITECT -->
+<!-- BIGG BOSS | ELITE SYSTEMS ARCHITECT -->
 <!-- ===================================== -->
 
 <div align="center">
 
-<!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Bigg+Boss;Systems+Architect+%26+Founder;The+Bigg+Boss+Technologies;Secure+•+Scalable+•+Observable" alt="Typing SVG" />
+<!-- Premium Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=BIGG%20BOSS&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Systems%20Architect%20%7C%20Security%20Engineer%20%7C%20Infrastructure%20Expert&descAlignY=55&descSize=18" width="100%" />
 
-### Building production-grade systems engineered for scale, resilience, and security.
+<!-- Typing Animation with Enhanced Speed -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=100&lines=Full-Stack+Systems+Architect;Security+%26+Infrastructure+Engineer;Building+Production-Grade+Systems;Secure+%E2%80%A2+Scalable+%E2%80%A2+Observable+%E2%80%A2+Resilient" alt="Typing SVG" />
 
-[![Website](https://img.shields.io/badge/🌐_biggboss.tech-0EA5E9?style=for-the-badge)](https://biggboss.tech)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/iambiggboss)
+<!-- Profile Badges -->
+<p>
+  <a href="https://biggboss.tech">
+    <img src="https://img.shields.io/badge/Website-biggboss.tech-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0A0E27" alt="Website"/>
+  </a>
+  <a href="https://github.com/iambiggboss">
+    <img src="https://img.shields.io/badge/GitHub-iambiggboss-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0E27" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=iambiggboss&label=Profile+Views&color=00D9FF&style=for-the-badge&labelColor=0A0E27" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/iambiggboss?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0A0E27&logo=github" alt="Followers"/>
+</p>
+
+<!-- Animated GIF Banner -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🎯 About Me
 
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│  Nickname: Bigg Boss                                        │
-│  Role:     Founder & Systems Architect                      │
-│  Company:  The Bigg Boss Technologies                       │
-│  Focus:    Full-Stack Infrastructure & Security Engineering │
-└─────────────────────────────────────────────────────────────┘
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```yaml
+name: Bigg Boss
+role: Founder & Systems Architect
+company: The Bigg Boss Technologies
+location: Building the Future, Globally
+focus:
+  - Full-Stack Infrastructure
+  - Security Engineering
+  - DevOps & SRE
+  - Cloud Architecture
+  - Zero-Trust Systems
+
+philosophy: |
+  "Systems that survive production 
+   pressure, not just pass staging tests"
+
+status: 🚀 Building production-grade systems
+learning: 📚 CCNA, AWS Solutions Architect, CKA
 ```
 
-I architect and build **production systems** across the entire IT lifecycle — from initial design through deployment, security hardening, and continuous operations. My work spans **software development, infrastructure engineering, cybersecurity, and DevOps**.
+### 🎓 Professional Journey
+- 🏢 **Founder** @ The Bigg Boss Technologies
+- 🔐 **Security-First** engineering mindset
+- 🌐 **Full-Stack** infrastructure expertise
+- ⚡ **Production-Grade** system designer
+- 🎯 **Zero-Trust** architecture advocate
 
 ---
 
-## 🏗️ What We Build at The Bigg Boss Technologies
+## 🏗️ The Bigg Boss Technologies: What We Build
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💻 Software Engineering
-- Modern web applications & SPAs
-- RESTful & GraphQL APIs
-- Microservices architectures
-- Authentication & authorization systems
-- Database design & optimization
+```typescript
+const services = {
+  webApps: ["SPAs", "Progressive Web Apps"],
+  apis: ["RESTful", "GraphQL", "gRPC"],
+  architecture: ["Microservices", "Serverless"],
+  auth: ["OAuth 2.0", "JWT", "SAML"],
+  databases: ["SQL", "NoSQL", "NewSQL"]
+}
+```
+
+**Technologies:**
+- Modern JavaScript/TypeScript
+- Python, Go, Rust
+- React, Vue, Next.js
+- Node.js, Django, FastAPI
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ☁️ Infrastructure & Cloud
-- Multi-cloud & hybrid deployments
-- Container orchestration (K8s/Docker)
-- Infrastructure as Code (Terraform/Ansible)
-- CI/CD pipelines & automation
-- High-availability architectures
+### ☁️ Cloud & Infrastructure
+```python
+infrastructure = {
+    "platforms": ["AWS", "Azure", "GCP"],
+    "orchestration": ["Kubernetes", "Docker Swarm"],
+    "iac": ["Terraform", "Ansible", "Pulumi"],
+    "ci_cd": ["GitHub Actions", "GitLab CI", "ArgoCD"],
+    "monitoring": ["Prometheus", "Grafana", "Datadog"]
+}
+```
+
+**Capabilities:**
+- Multi-cloud deployments
+- Container orchestration
+- Infrastructure as Code
+- GitOps workflows
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔐 Security Engineering
-- Threat modeling & risk assessment
-- Penetration testing & vulnerability management
-- Zero-trust architecture implementation
-- Security monitoring & incident response
-- Compliance & hardening standards
+```bash
+security_layers=(
+  "Network Security"
+  "Application Security"
+  "Data Encryption"
+  "Identity & Access Management"
+  "Threat Detection & Response"
+  "Compliance & Auditing"
+)
+```
+
+**Services:**
+- Penetration testing
+- Vulnerability assessments
+- Security automation
+- Compliance frameworks (SOC2, ISO 27001)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 Operations & Observability
-- Centralized logging & metrics (ELK, Prometheus)
-- Distributed tracing & APM
-- Alert design & on-call optimization
-- Disaster recovery planning
-- Performance tuning & optimization
+### 📊 Observability & SRE
+```go
+type Observability struct {
+    Logging     []string // ELK, Loki, Splunk
+    Metrics     []string // Prometheus, InfluxDB
+    Tracing     []string // Jaeger, Zipkin
+    APM         []string // New Relic, Datadog
+    Alerting    []string // PagerDuty, OpsGenie
+}
+```
+
+**Focus Areas:**
+- Real-time monitoring
+- Distributed tracing
+- SLO/SLA management
+- Incident response
 
 </td>
 </tr>
 </table>
 
-> **We build real systems for real businesses** — not proof-of-concepts or demos.
+> **Our Commitment:** We build **real production systems** for **real businesses** — not demos or proofs-of-concept.
 
 ---
 
-## 🎯 Engineering Philosophy
+## 🎯 Engineering Philosophy & Principles
 
 <div align="center">
 
 ```mermaid
-graph LR
-    A[Assume Breach] --> B[Design for Failure]
-    B --> C[Secure by Default]
-    C --> D[Observe Everything]
-    D --> E[Automate Relentlessly]
-    E --> F[Resilient Systems]
-    
-    style A fill:#ef4444
-    style B fill:#f59e0b
-    style C fill:#10b981
-    style D fill:#3b82f6
-    style E fill:#8b5cf6
-    style F fill:#06b6d4
+mindmap
+  root((Bigg Boss<br/>Engineering))
+    Security
+      Assume Breach
+      Defense in Depth
+      Zero Trust
+      Least Privilege
+    Reliability
+      Design for Failure
+      Chaos Engineering
+      High Availability
+      Disaster Recovery
+    Observability
+      Full-Stack Monitoring
+      Distributed Tracing
+      Real-time Alerts
+      Metrics-Driven
+    Automation
+      Infrastructure as Code
+      CI/CD Pipelines
+      Auto-scaling
+      Self-healing Systems
 ```
 
 </div>
 
-| Principle | Implementation |
-|-----------|----------------|
-| **🔴 Assume Breach** | Design systems that remain secure even when perimeter defenses fail |
-| **🟡 Design for Failure** | Build fault-tolerant systems with graceful degradation |
-| **🟢 Secure by Default** | Security is integrated from day one, not bolted on later |
-| **🔵 Observe Everything** | Comprehensive logging, metrics, and tracing across all layers |
-| **🟣 Automate Relentlessly** | Eliminate toil and human error through intelligent automation |
+<table align="center">
+<tr>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" /><br/>
+<b>Assume Breach</b><br/>
+<sub>Design systems that remain secure even when perimeter defenses fail</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80" /><br/>
+<b>Design for Failure</b><br/>
+<sub>Build fault-tolerant systems with graceful degradation</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80" /><br/>
+<b>Secure by Default</b><br/>
+<sub>Security integrated from day one, not bolted on later</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" /><br/>
+<b>Observe Everything</b><br/>
+<sub>Comprehensive logging, metrics, and tracing</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" /><br/>
+<b>Automate Relentlessly</b><br/>
+<sub>Eliminate toil and human error</sub>
+</td>
+</tr>
+</table>
 
-### Core Belief
-> Systems must **survive pressure in production**, not just pass tests in staging.
+### 🎖️ Core Beliefs
 
----
+> **"Production pressure reveals truth. Systems must thrive under it, not just survive it."**
 
-## ⚠️ Threat Model: What We Design Against
-
-<details>
-<summary><b>🔐 Security Threats</b></summary>
-
-- **Credential Compromise:** API keys, tokens, passwords leaked via Git, logs, or social engineering
-- **Network Intrusion:** Perimeter breach leading to lateral movement and privilege escalation
-- **Application Attacks:** OWASP Top 10 (injection, XSS, CSRF, broken auth, etc.)
-- **Supply Chain:** Compromised dependencies, malicious packages, backdoored libraries
-- **Insider Threats:** Malicious or negligent actions by privileged users
-
-</details>
-
-<details>
-<summary><b>💥 Operational Failures</b></summary>
-
-- **Infrastructure Outages:** Cloud provider failures, network partitions, hardware degradation
-- **Cascading Failures:** Single point of failure triggering system-wide collapse
-- **Data Loss:** Corruption, accidental deletion, ransomware attacks
-- **Configuration Drift:** Undocumented changes leading to unexpected behavior
-- **Human Error:** Misconfigurations, accidental deployments, inadequate rollback procedures
-
-</details>
-
-<details>
-<summary><b>📈 Scale & Performance Issues</b></summary>
-
-- **Traffic Spikes:** Sudden load increases overwhelming capacity
-- **Resource Exhaustion:** Memory leaks, disk space, connection pool depletion
-- **Database Bottlenecks:** Slow queries, lock contention, replication lag
-- **Third-Party Dependencies:** API rate limits, external service degradation
-
-</details>
+- ✅ Ship fast, but ship **secure**
+- ✅ Optimize for **reliability**, then performance
+- ✅ **Measure everything**, improve continuously
+- ✅ Automation is **mandatory**, not optional
+- ✅ Documentation is **code**, not an afterthought
 
 ---
 
-## 🧬 System Architecture Thinking
+## ⚠️ Threat Model: Real-World Attack Scenarios
 
+<details open>
+<summary><b>🔴 Security Threats (Click to expand)</b></summary>
+<br/>
+
+| Threat Vector | Attack Scenario | Our Defense |
+|--------------|-----------------|-------------|
+| **Credential Compromise** | API keys leaked via Git, logs, or social engineering | Secret scanning, rotation, vault management |
+| **Network Intrusion** | Perimeter breach → lateral movement → privilege escalation | Zero-trust networking, microsegmentation, MFA |
+| **Application Attacks** | OWASP Top 10: injection, XSS, CSRF, broken auth | WAF, input validation, security headers, CSP |
+| **Supply Chain** | Compromised dependencies, backdoored libraries | SCA, SBOM, signature verification, private registries |
+| **Insider Threats** | Malicious/negligent privileged user actions | RBAC, audit logging, anomaly detection, least privilege |
+| **DDoS Attacks** | Volumetric, protocol, or application-layer floods | CDN, rate limiting, geo-blocking, autoscaling |
+| **Data Exfiltration** | Unauthorized data extraction via API or database | DLP, encryption, access controls, egress monitoring |
+
+</details>
+
+<details>
+<summary><b>🟡 Operational Failures (Click to expand)</b></summary>
+<br/>
+
+```ascii
+┌─────────────────────────────────────────────────────────────┐
+│ FAILURE SCENARIO              │ MITIGATION STRATEGY          │
+├───────────────────────────────┼──────────────────────────────┤
+│ Cloud Provider Outage         │ Multi-region deployments     │
+│ Database Corruption           │ Automated backups + PITR     │
+│ Cascading Service Failures    │ Circuit breakers + retries   │
+│ Configuration Drift           │ GitOps + automated testing   │
+│ Capacity Exhaustion           │ Auto-scaling + monitoring    │
+│ Human Error (bad deploys)     │ Blue-green + canary releases │
+│ Network Partitions            │ Eventual consistency design  │
+│ Certificate Expiry            │ Automated renewal + alerts   │
+└───────────────────────────────┴──────────────────────────────┘
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                         FULL-STACK SYSTEMS                          │
-├─────────────────────────────────────────────────────────────────────┤
-│  Network Layer         │  Foundation of connectivity & security     │
-│  Infrastructure Layer  │  Compute, storage, orchestration           │
-│  Application Layer     │  Business logic, APIs, user interfaces     │
-│  Security Layer        │  Defense in depth across all levels        │
-│  Observability Layer   │  Monitoring, logging, tracing, alerting    │
-└─────────────────────────────────────────────────────────────────────┘
-```
 
-Every layer is designed **holistically**, secured **by default**, and monitored **continuously**.
+</details>
+
+<details>
+<summary><b>🟢 Scale & Performance Issues (Click to expand)</b></summary>
+<br/>
+
+**Traffic Spikes:** Horizontal autoscaling, CDN caching, rate limiting  
+**Resource Exhaustion:** Memory profiling, connection pooling, garbage collection tuning  
+**Database Bottlenecks:** Read replicas, query optimization, caching layers (Redis)  
+**Third-Party Dependencies:** Circuit breakers, fallback mechanisms, retry with exponential backoff  
+**Cold Starts:** Provisioned concurrency, warm pools, connection pre-warming  
+
+</details>
 
 ---
 
-## 📊 GitHub Analytics
+## 🧰 Technology Arsenal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iambiggboss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iambiggboss&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+### 👨‍💻 Programming Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambiggboss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iambiggboss&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+### 🚀 Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### 🗄️ Databases & Caching
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+
+### 📊 Monitoring & Observability
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=black)
+
+### 🔐 Security Tools
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+
+### 🛠️ DevOps & CI/CD
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefik&logoColor=white)
+
+### 🎨 Design & Productivity
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 🐍 Contribution Visualization
+## 📊 GitHub Analytics & Performance
+
+<div align="center">
+
+<!-- Improved Stats Cards with Custom Theme -->
+<img src="https://github-readme-stats.vercel.app/api?username=iambiggboss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117,0C2340&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iambiggboss&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&border_radius=10" alt="GitHub Streak" height="180" />
+
+<!-- Language Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambiggboss&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&card_width=445" alt="Top Languages" />
+
+<!-- Detailed Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iambiggboss&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" width="100%" />
+
+<!-- Trophy Showcase -->
+<img src="https://github-profile-trophy.vercel.app/?username=iambiggboss&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+
+<!-- 3D Contribution Graph -->
+<img src="https://raw.githubusercontent.com/iambiggboss/iambiggboss/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake Animation
 
 <div align="center">
 
@@ -200,140 +402,296 @@ Every layer is designed **holistically**, secured **by default**, and monitored 
 
 </div>
 
-> 💡 **Note:** Requires GitHub Actions workflow enabled. See [setup instructions](#-setup-instructions) below.
-
 ---
 
-## 🧰 Technology Stack
+## 📈 Detailed Metrics & Insights
+
+<details>
+<summary><b>📊 Advanced GitHub Metrics (Click to expand)</b></summary>
+<br/>
 
 <div align="center">
 
-### Languages & Frameworks
+<!-- WakaTime Stats -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=iambiggboss&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" alt="WakaTime Stats" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<!-- Contribution Stats -->
+<img src="https://github-contributor-stats.vercel.app/api?username=iambiggboss&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Contribution Stats" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+</div>
 
-### Infrastructure & DevOps
+</details>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+---
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+## 🎓 Certifications & Continuous Learning
 
-### Security & Monitoring
+<div align="center">
 
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+### 📚 Current Focus Areas
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" /><br/>
+<b>🌐 Networking</b><br/>
+<sub>CCNA Track</sub><br/>
+<sub>Network Security</sub><br/>
+<sub>Enterprise Infrastructure</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" /><br/>
+<b>☁️ Cloud Architecture</b><br/>
+<sub>AWS Solutions Architect</sub><br/>
+<sub>Multi-Cloud Strategy</sub><br/>
+<sub>Cloud Security</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" /><br/>
+<b>🐳 Kubernetes</b><br/>
+<sub>CKA (Certified K8s Admin)</sub><br/>
+<sub>Service Mesh</sub><br/>
+<sub>GitOps Workflows</sub>
+</td>
+</tr>
+</table>
 
-### Databases
+### 🔬 Research & Innovation
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+```python
+research_areas = {
+    "security": [
+        "Zero-trust architecture patterns",
+        "eBPF for security & networking",
+        "Runtime application security",
+        "Supply chain security"
+    ],
+    "reliability": [
+        "Chaos engineering methodologies",
+        "Service mesh architectures",
+        "Progressive delivery strategies",
+        "Observability best practices"
+    ],
+    "performance": [
+        "WebAssembly for edge computing",
+        "Distributed systems optimization",
+        "Database performance tuning",
+        "CDN & caching strategies"
+    ]
+}
+```
 
 </div>
 
 ---
 
-## 🎓 Continuous Learning & Certifications
-
-```
-📚 Currently Pursuing:
-  ├─ CCNA (Cisco Certified Network Associate)
-  ├─ AWS Solutions Architect
-  └─ Certified Kubernetes Administrator (CKA)
-
-🔬 Active Research Areas:
-  ├─ Zero-trust architecture patterns
-  ├─ Service mesh & observability
-  ├─ eBPF for security & networking
-  └─ Chaos engineering & resilience testing
-```
-
----
-
-## 📫 Connect & Collaborate
+## 🌐 Connect & Collaborate
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-biggboss.tech-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://biggboss.tech)
-[![GitHub](https://img.shields.io/badge/GitHub-iambiggboss-181717?style=for-the-badge&logo=github)](https://github.com/iambiggboss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@biggboss.tech)
+### 💬 Let's Build Something Amazing Together
+
+<table>
+<tr>
+<td align="center">
+<a href="https://biggboss.tech">
+<img src="https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0A0E27" />
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/iambiggboss">
+<img src="https://img.shields.io/badge/GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0E27" />
+</a>
+</td>
+<td align="center">
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E27" />
+</a>
+</td>
+<td align="center">
+<a href="https://twitter.com/yourhandle">
+<img src="https://img.shields.io/badge/Twitter-00D9FF?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0E27" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="mailto:contact@biggboss.tech">
+<img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E27" />
+</a>
+</td>
+<td align="center">
+<a href="https://discord.gg/yourserver">
+<img src="https://img.shields.io/badge/Discord-00D9FF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A0E27" />
+</a>
+</td>
+<td align="center">
+<a href="https://t.me/yourhandle">
+<img src="https://img.shields.io/badge/Telegram-00D9FF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0A0E27" />
+</a>
+</td>
+<td align="center">
+<a href="https://dev.to/yourhandle">
+<img src="https://img.shields.io/badge/Dev.to-00D9FF?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0A0E27" />
+</a>
+</td>
+</tr>
+</table>
+
+### 📧 Business Inquiries
+**Email:** contact@biggboss.tech  
+**Response Time:** Within 24 hours
 
 </div>
 
 ---
 
-## 🚀 Final Note
+## 💼 Featured Projects & Open Source
 
-This profile reflects **how I architect and engineer systems**, not just a list of technologies I've touched.
+<div align="center">
 
-If you're building **production-grade, secure, observable infrastructure** and want to collaborate or discuss system design — let's connect.
+<!-- Pinned Repositories - Replace with your actual repos -->
+<a href="https://github.com/iambiggboss/project-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iambiggboss&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10" />
+</a>
+<a href="https://github.com/iambiggboss/project-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iambiggboss&repo=project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10" />
+</a>
+
+</div>
+
+---
+
+## 💡 Random Dev Wisdom
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&border_color=00D9FF" alt="Random Dev Quote" />
+
+</div>
+
+---
+
+## ☕ Support My Work
+
+<div align="center">
+
+If you find value in my projects or insights, consider supporting my work:
+
+<a href="https://buymeacoffee.com/biggboss">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+<a href="https://patreon.com/biggboss">
+  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
+</a>
+<a href="https://github.com/sponsors/iambiggboss">
+  <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+</a>
+
+### 🌟 Your Support Helps Me:
+- 🔬 Research cutting-edge technologies
+- 📚 Create educational content
+- 🛠️ Build open-source tools
+- 🌍 Contribute to the developer community
+
+</div>
+
+---
+
+## 🚀 Final Words
 
 <div align="center">
 
 ### *"Good systems survive pressure. Great systems thrive under it."*
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" />
+
+```ascii
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║  This profile reflects how I architect and engineer systems,         ║
+║  not just a collection of tools I've used.                           ║
+║                                                                      ║
+║  If you're passionate about building production-grade,               ║
+║  secure, observable infrastructure — let's connect.                  ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+**⭐ Star my repositories if you find them valuable!**  
+**🔔 Follow for updates on new projects and insights**
+
 ---
 
-<img src="https://komarev.com/ghpvc/?username=iambiggboss&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+### 📊 Proudly Serving
 
-**⭐ If you find this profile interesting, consider starring some of my repositories!**
+<img src="https://img.shields.io/badge/Developers-Worldwide-00D9FF?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/Since-2020-00D9FF?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/Systems_Built-500%2B-00D9FF?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/Uptime-99.99%25-00D9FF?style=for-the-badge&labelColor=0A0E27" />
 
 </div>
 
 ---
 
-## 🛠️ Setup Instructions
+<div align="center">
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%" />
+
+**Made with 💙 by Bigg Boss** | **Last Updated: 2026**
+
+</div>
+
+---
+
+## 🛠️ Setup & Configuration
 
 <details>
-<summary><b>How to enable the contribution snake animation</b></summary>
+<summary><b>⚙️ How to Use This README (Click for instructions)</b></summary>
 
-1. Create `.github/workflows/snake.yml` in your profile repository:
+### 📋 Prerequisites
+1. Create a repository named `iambiggboss` (matching your GitHub username)
+2. Enable GitHub Actions in repository settings
+3. Create a `README.md` file in the root
+
+### 🐍 Snake Animation Setup
+
+Create `.github/workflows/snake.yml`:
 
 ```yaml
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
+    - cron: "0 */12 * * *"  # Runs every 12 hours
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: iambiggboss
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
       
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
@@ -341,16 +699,44 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-2. Enable GitHub Actions in your repository settings
-3. Run the workflow manually or wait for the scheduled run
-4. The snake animation will appear in your README
+### 📊 3D Contribution Graph Setup
+
+Create `.github/workflows/profile-3d.yml`:
+
+```yaml
+name: Generate 3D Profile
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Daily at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Profile
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: iambiggboss
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Generated 3D contribution graph" || exit 0
+          git push
+```
+
+### 🎨 Customization Tips
+
+1. **Colors:** Replace `00D9FF` with your preferred hex color
+2. **Badges:** Update links to your actual profiles
+3. **Projects:** Replace pinned repos with your actual projects
+4. **Stats:** Wait 24h for stats to populate after setup
 
 </details>
 
 ---
-
-<div align="center">
-
-Made with 💙 by **Bigg Boss** | Last updated: 2026
-
-</div>
