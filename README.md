@@ -1,3 +1,21 @@
+<!-- =============================== -->
+
+<!-- BIGG BOSS | BOLD FOUNDER EDITION -->
+
+<!-- =============================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&color=FFD700&center=true&vCenter=true&width=900&lines=Bigg+Boss+—+Founder+%26+Systems+Architect;The+Bigg+Boss+Technologies;Secure.+Scalable.+Unbreakable+Systems." />
+</p>
+
+<p align="center">
+  <strong>Building premium IT systems that survive scale, failure, and attack.</strong>
+</p>
+
+<p align="center">
+  🌐 <a href="https://biggboss.tech">biggboss.tech</a> • 🐙 <a href="https://github.com/iambiggboss">GitHub</a>
+</p>
+
 # 👑 Bigg Boss
 
 ### Founder & Systems Architect — **The Bigg Boss Technologies**
