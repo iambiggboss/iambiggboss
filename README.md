@@ -86,6 +86,63 @@ Systems must **degrade gracefully**, not collapse.
 
 ---
 
+## 🧬 How I Engineer Systems (Balanced Full‑Stack)
+
+<p align="center">
+  <svg width="900" height="360" viewBox="0 0 900 360" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#b8962e"/>
+        <stop offset="50%" stop-color="#ffd700"/>
+        <stop offset="100%" stop-color="#b8962e"/>
+      </linearGradient>
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="2.5" result="blur"/>
+        <feMerge>
+          <feMergeNode in="blur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+
+```
+<!-- Layers -->
+<g font-family="Inter, Arial" font-size="16" fill="#e6e6e6">
+  <rect x="70" y="40" rx="14" ry="14" width="220" height="56" fill="#0f0f0f" stroke="url(#gold)" filter="url(#glow)"/>
+  <text x="180" y="74" text-anchor="middle">Network & Connectivity</text>
+
+  <rect x="70" y="110" rx="14" ry="14" width="220" height="56" fill="#0f0f0f" stroke="url(#gold)" filter="url(#glow)"/>
+  <text x="180" y="144" text-anchor="middle">Infrastructure & Platforms</text>
+
+  <rect x="340" y="75" rx="14" ry="14" width="220" height="56" fill="#0f0f0f" stroke="url(#gold)" filter="url(#glow)"/>
+  <text x="450" y="109" text-anchor="middle">Applications & APIs</text>
+
+  <rect x="610" y="40" rx="14" ry="14" width="220" height="56" fill="#0f0f0f" stroke="url(#gold)" filter="url(#glow)"/>
+  <text x="720" y="74" text-anchor="middle">Security Controls</text>
+
+  <rect x="610" y="110" rx="14" ry="14" width="220" height="56" fill="#0f0f0f" stroke="url(#gold)" filter="url(#glow)"/>
+  <text x="720" y="144" text-anchor="middle">Operations & Reliability</text>
+</g>
+
+<!-- Connectors -->
+<g stroke="url(#gold)" stroke-width="2" fill="none" filter="url(#glow)">
+  <path d="M290 68 L340 103"/>
+  <path d="M290 138 L340 103"/>
+  <path d="M560 103 L610 68"/>
+  <path d="M560 103 L610 138"/>
+</g>
+
+<!-- Caption -->
+<text x="450" y="200" text-anchor="middle" fill="#bdbdbd" font-size="14">
+  Balanced architecture: every layer is designed together, secured by default, and operated with visibility.
+</text>
+```
+
+  </svg>
+</p>
+
+---
+
 ## 🧩 Core Technology Surface Area
 
 ### Software & Development
