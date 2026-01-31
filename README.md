@@ -79,21 +79,21 @@ My approach is defined by a security-first, resilience-oriented mindset applied 
 ### GitHub Analytics
 <!-- Consider self-hosting these stats for better reliability and to include private contribution data[citation:3][citation:7] -->
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&show=reviews" alt="GitHub Stats" />
+  <a href="https://github.com/iambiggboss">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=iambiggboss&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&show=reviews" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/iambiggboss">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambiggboss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
 ### Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iambiggboss&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/iambiggboss/iambiggboss/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
