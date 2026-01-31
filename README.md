@@ -13,7 +13,7 @@
 <!-- Profile Badges -->
 <p>
   <a href="https://biggboss.tech">
-    <img src="https://img.shields.io/badge/🌐_Website-biggboss.tech-00D9FF?style=for-the-badge&labelColor=0A0E27" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-biggboss.tech-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0A0E27" alt="Website"/>
   </a>
   <a href="https://github.com/iambiggboss">
     <img src="https://img.shields.io/badge/GitHub-iambiggboss-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0E27" alt="GitHub"/>
@@ -160,88 +160,72 @@ type Observability struct {
 
 <div align="center">
 
-<!-- FIXED: Using image instead of mermaid for better compatibility -->
-<img src="https://i.imgur.com/8RjNZqX.png" alt="Engineering Philosophy" width="700"/>
+```mermaid
+mindmap
+  root((Bigg Boss<br/>Engineering))
+    Security
+      Assume Breach
+      Defense in Depth
+      Zero Trust
+      Least Privilege
+    Reliability
+      Design for Failure
+      Chaos Engineering
+      High Availability
+      Disaster Recovery
+    Observability
+      Full-Stack Monitoring
+      Distributed Tracing
+      Real-time Alerts
+      Metrics-Driven
+    Automation
+      Infrastructure as Code
+      CI/CD Pipelines
+      Auto-scaling
+      Self-healing Systems
+```
 
 </div>
 
 <table align="center">
 <tr>
-<td align="center" width="20%" style="background-color: #1a1b27; padding: 15px;">
+<td align="center" width="20%">
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" /><br/>
-<b style="color: #00D9FF;">🔴 Assume Breach</b><br/>
-<sub style="color: #c9d1d9;">Design systems that remain secure even when perimeter defenses fail</sub>
+<b>Assume Breach</b><br/>
+<sub>Design systems that remain secure even when perimeter defenses fail</sub>
 </td>
-<td align="center" width="20%" style="background-color: #1a1b27; padding: 15px;">
+<td align="center" width="20%">
 <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80" /><br/>
-<b style="color: #00D9FF;">🟡 Design for Failure</b><br/>
-<sub style="color: #c9d1d9;">Build fault-tolerant systems with graceful degradation</sub>
+<b>Design for Failure</b><br/>
+<sub>Build fault-tolerant systems with graceful degradation</sub>
 </td>
-<td align="center" width="20%" style="background-color: #1a1b27; padding: 15px;">
+<td align="center" width="20%">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80" /><br/>
-<b style="color: #00D9FF;">🟢 Secure by Default</b><br/>
-<sub style="color: #c9d1d9;">Security integrated from day one, not bolted on later</sub>
+<b>Secure by Default</b><br/>
+<sub>Security integrated from day one, not bolted on later</sub>
 </td>
-<td align="center" width="20%" style="background-color: #1a1b27; padding: 15px;">
+<td align="center" width="20%">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" /><br/>
-<b style="color: #00D9FF;">🔵 Observe Everything</b><br/>
-<sub style="color: #c9d1d9;">Comprehensive logging, metrics, and tracing</sub>
+<b>Observe Everything</b><br/>
+<sub>Comprehensive logging, metrics, and tracing</sub>
 </td>
-<td align="center" width="20%" style="background-color: #1a1b27; padding: 15px;">
+<td align="center" width="20%">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" /><br/>
-<b style="color: #00D9FF;">🟣 Automate Relentlessly</b><br/>
-<sub style="color: #c9d1d9;">Eliminate toil and human error</sub>
+<b>Automate Relentlessly</b><br/>
+<sub>Eliminate toil and human error</sub>
 </td>
 </tr>
 </table>
 
-### 🎖️ Core Engineering Principles
-
-<table>
-<tr>
-<td width="33%">
-
-#### 🔒 Security
-- **Assume Breach** - Design for compromise
-- **Defense in Depth** - Multiple security layers
-- **Zero Trust** - Never trust, always verify
-- **Least Privilege** - Minimal access rights
-
-</td>
-<td width="33%">
-
-#### ⚡ Reliability
-- **Design for Failure** - Embrace chaos
-- **High Availability** - Always accessible
-- **Disaster Recovery** - Plan for worst case
-- **Graceful Degradation** - Fail safely
-
-</td>
-<td width="33%">
-
-#### 📊 Observability
-- **Full-Stack Monitoring** - See everything
-- **Distributed Tracing** - Track requests
-- **Real-time Alerts** - Know immediately
-- **Metrics-Driven** - Data-based decisions
-
-</td>
-</tr>
-</table>
-
-### 💡 Core Beliefs
+### 🎖️ Core Beliefs
 
 > **"Production pressure reveals truth. Systems must thrive under it, not just survive it."**
 
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│  ✅ Ship fast, but ship SECURE                              │
-│  ✅ Optimize for RELIABILITY, then performance              │
-│  ✅ MEASURE everything, improve continuously                │
-│  ✅ Automation is MANDATORY, not optional                   │
-│  ✅ Documentation is CODE, not an afterthought              │
-└─────────────────────────────────────────────────────────────┘
-```
+- ✅ Ship fast, but ship **secure**
+- ✅ Optimize for **reliability**, then performance
+- ✅ **Measure everything**, improve continuously
+- ✅ Automation is **mandatory**, not optional
+- ✅ Documentation is **code**, not an afterthought
 
 ---
 
@@ -267,16 +251,20 @@ type Observability struct {
 <summary><b>🟡 Operational Failures (Click to expand)</b></summary>
 <br/>
 
-| Failure Scenario | Mitigation Strategy |
-|------------------|---------------------|
-| **Cloud Provider Outage** | Multi-region deployments, failover automation |
-| **Database Corruption** | Automated backups, Point-in-Time Recovery (PITR) |
-| **Cascading Service Failures** | Circuit breakers, bulkheads, retry policies |
-| **Configuration Drift** | GitOps workflows, automated testing, IaC |
-| **Capacity Exhaustion** | Auto-scaling, resource limits, capacity planning |
-| **Human Error** | Blue-green deployments, canary releases, rollbacks |
-| **Network Partitions** | Eventual consistency, consensus algorithms |
-| **Certificate Expiry** | Automated renewal (cert-manager), monitoring alerts |
+```ascii
+┌─────────────────────────────────────────────────────────────┐
+│ FAILURE SCENARIO              │ MITIGATION STRATEGY          │
+├───────────────────────────────┼──────────────────────────────┤
+│ Cloud Provider Outage         │ Multi-region deployments     │
+│ Database Corruption           │ Automated backups + PITR     │
+│ Cascading Service Failures    │ Circuit breakers + retries   │
+│ Configuration Drift           │ GitOps + automated testing   │
+│ Capacity Exhaustion           │ Auto-scaling + monitoring    │
+│ Human Error (bad deploys)     │ Blue-green + canary releases │
+│ Network Partitions            │ Eventual consistency design  │
+│ Certificate Expiry            │ Automated renewal + alerts   │
+└───────────────────────────────┴──────────────────────────────┘
+```
 
 </details>
 
@@ -284,14 +272,11 @@ type Observability struct {
 <summary><b>🟢 Scale & Performance Issues (Click to expand)</b></summary>
 <br/>
 
-| Challenge | Solution |
-|-----------|----------|
-| **Traffic Spikes** | Horizontal autoscaling, CDN caching, rate limiting |
-| **Resource Exhaustion** | Memory profiling, connection pooling, GC tuning |
-| **Database Bottlenecks** | Read replicas, query optimization, caching (Redis) |
-| **Third-Party Dependencies** | Circuit breakers, fallbacks, exponential backoff |
-| **Cold Starts** | Provisioned concurrency, warm pools, connection pre-warming |
-| **Global Latency** | Edge computing, CDN, multi-region deployments |
+**Traffic Spikes:** Horizontal autoscaling, CDN caching, rate limiting  
+**Resource Exhaustion:** Memory profiling, connection pooling, garbage collection tuning  
+**Database Bottlenecks:** Read replicas, query optimization, caching layers (Redis)  
+**Third-Party Dependencies:** Circuit breakers, fallback mechanisms, retry with exponential backoff  
+**Cold Starts:** Provisioned concurrency, warm pools, connection pre-warming  
 
 </details>
 
@@ -378,22 +363,22 @@ type Observability struct {
 
 <div align="center">
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats - Using correct API -->
 <a href="https://github.com/iambiggboss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iambiggboss&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </a>
 
-<!-- GitHub Streak -->
+<!-- GitHub Streak - Using correct service -->
 <a href="https://github.com/iambiggboss">
   <img height="180em" src="https://streak-stats.demolab.com/?user=iambiggboss&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&currStreakNum=ffffff&dates=8b949e" alt="GitHub Streak"/>
 </a>
 
-<!-- Top Languages -->
+<!-- Top Languages - Compact version -->
 <a href="https://github.com/iambiggboss">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambiggboss&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&hide=html,css" alt="Top Languages"/>
 </a>
 
-<!-- Activity Graph -->
+<!-- Activity Graph - Using correct service -->
 <a href="https://github.com/iambiggboss">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iambiggboss&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" width="100%"/>
 </a>
@@ -419,7 +404,6 @@ type Observability struct {
 
 </div>
 
-> **⚡ Note:** Snake animation requires GitHub Actions setup. See [instructions below](#-setup-instructions).
 
 ---
 
@@ -467,7 +451,7 @@ research_areas = {
     ],
     "reliability": [
         "Chaos engineering methodologies",
-        "Service mesh architectures (Istio, Linkerd)",
+        "Service mesh architectures",
         "Progressive delivery strategies",
         "Observability best practices"
     ],
@@ -494,51 +478,51 @@ research_areas = {
 <tr>
 <td align="center">
 <a href="https://biggboss.tech">
-<img src="https://img.shields.io/badge/🌐_Website-biggboss.tech-00D9FF?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0A0E27" />
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/iambiggboss">
-<img src="https://img.shields.io/badge/GitHub-iambiggboss-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0E27" />
 </a>
 </td>
 <td align="center">
 <a href="https://linkedin.com/in/yourprofile">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E27" />
 </a>
 </td>
 <td align="center">
 <a href="https://twitter.com/yourhandle">
-<img src="https://img.shields.io/badge/Twitter-Follow-00D9FF?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/Twitter-00D9FF?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0E27" />
 </a>
 </td>
 </tr>
 <tr>
 <td align="center">
 <a href="mailto:contact@biggboss.tech">
-<img src="https://img.shields.io/badge/📧_Email-contact-00D9FF?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E27" />
 </a>
 </td>
 <td align="center">
-<a href="https://discord.gg/yourserver">
-<img src="https://img.shields.io/badge/Discord-Join-00D9FF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A0E27" />
+<a href="https://discord.gg/GcrVsj7chg">
+<img src="https://img.shields.io/badge/Discord-00D9FF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A0E27" />
 </a>
 </td>
 <td align="center">
 <a href="https://t.me/yourhandle">
-<img src="https://img.shields.io/badge/Telegram-Chat-00D9FF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/Telegram-00D9FF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0A0E27" />
 </a>
 </td>
 <td align="center">
 <a href="https://dev.to/yourhandle">
-<img src="https://img.shields.io/badge/Dev.to-Follow-00D9FF?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/Dev.to-00D9FF?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0A0E27" />
 </a>
 </td>
 </tr>
 </table>
 
 ### 📧 Business Inquiries
-**Email:** contact@biggboss.tech  
+**Email:** info@biggboss.tech  
 **Response Time:** Within 24 hours
 
 </div>
@@ -549,7 +533,7 @@ research_areas = {
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Good%20systems%20survive%20pressure.%20Great%20systems%20thrive%20under%20it.&author=Bigg%20Boss" alt="Dev Quote" />
 
 </div>
 
@@ -572,10 +556,10 @@ If you find value in my projects or insights, consider supporting my work:
 </a>
 
 ### 🌟 Your Support Helps Me:
-💡 Research cutting-edge technologies  
-📚 Create educational content  
-🛠️ Build open-source tools  
-🌍 Contribute to the developer community
+- 🔬 Research cutting-edge technologies
+- 📚 Create educational content
+- 🛠️ Build open-source tools
+- 🌍 Contribute to the developer community
 
 </div>
 
@@ -622,118 +606,6 @@ If you find value in my projects or insights, consider supporting my work:
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%" />
 
-**Made with 💙 by Bigg Boss** | **Last Updated: January 2026**
+**Made with 💙 by Bigg Boss** | **Last Updated: 2026**
 
 </div>
-
----
-
-## 🛠️ Setup Instructions
-
-<details>
-<summary><b>⚙️ Complete Setup Guide (Click to expand)</b></summary>
-<br/>
-
-### 📋 Step 1: Repository Setup
-1. Create a repository named exactly **`iambiggboss`** (matching your username)
-2. Make it **PUBLIC**
-3. Initialize with a README.md file
-4. Copy this entire content into your README.md
-5. Commit and push
-
-### 🐍 Step 2: Snake Animation Setup
-
-Create file: **`.github/workflows/snake.yml`**
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"  # Every 12 hours
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: iambiggboss
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-### 🚀 Step 3: Enable GitHub Actions
-1. Go to repository **Settings**
-2. Click **Actions** → **General**
-3. Enable **"Allow all actions and reusable workflows"**
-4. Under **Workflow permissions**, enable **"Read and write permissions"**
-5. Click **Save**
-
-### ▶️ Step 4: Run the Snake Workflow
-1. Go to **Actions** tab
-2. Click **"Generate Snake Animation"** on the left
-3. Click **"Run workflow"** dropdown
-4. Click the green **"Run workflow"** button
-5. Wait ~1 minute for completion
-6. Refresh your profile - snake should appear!
-
-### 🎨 Step 5: Customize Personal Links
-Replace these placeholders with your actual information:
-```markdown
-https://biggboss.tech → your website
-https://linkedin.com/in/yourprofile → your LinkedIn
-https://twitter.com/yourhandle → your Twitter/X
-contact@biggboss.tech → your email
-```
-
-### ✅ Verification Checklist
-- [ ] Repository is public and named `iambiggboss`
-- [ ] README.md is in root directory
-- [ ] Snake workflow file created at `.github/workflows/snake.yml`
-- [ ] GitHub Actions enabled with write permissions
-- [ ] Workflow ran successfully (check Actions tab)
-- [ ] Personal links updated
-- [ ] All stats cards loading properly
-
-### 🔍 Troubleshooting
-
-**Stats cards not showing?**
-- Wait 5-10 minutes (GitHub API needs time)
-- Check username is spelled correctly: `iambiggboss`
-- Make sure repository is PUBLIC
-
-**Snake animation shows "404"?**
-- Workflow hasn't run yet - run manually
-- Check if `output` branch was created
-- Verify workflow completed successfully in Actions tab
-
-**Colors look different?**
-- GitHub's dark/light mode affects rendering
-- Clear browser cache and refresh
-
-</details>
-
----
