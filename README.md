@@ -106,35 +106,52 @@ Systems must **degrade gracefully**, not collapse.
     </defs>
 
 ```
-<!-- Layers -->
+<!-- Animated Layers -->
 <g font-family="Inter, Arial" font-size="16" fill="#e6e6e6">
-  <rect x="70" y="40" rx="14" ry="14" width="220" height="56" fill="#0f0f0f" stroke="url(#gold)" filter="url(#glow)"/>
+  <rect x="70" y="40" rx="14" ry="14" width="220" height="56" fill="#0f0f0f" stroke="url(#gold)" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite" />
+  </rect>
   <text x="180" y="74" text-anchor="middle">Network & Connectivity</text>
 
-  <rect x="70" y="110" rx="14" ry="14" width="220" height="56" fill="#0f0f0f" stroke="url(#gold)" filter="url(#glow)"/>
+  <rect x="70" y="110" rx="14" ry="14" width="220" height="56" fill="#0f0f0f" stroke="url(#gold)" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" begin="0.5s" repeatCount="indefinite" />
+  </rect>
   <text x="180" y="144" text-anchor="middle">Infrastructure & Platforms</text>
 
-  <rect x="340" y="75" rx="14" ry="14" width="220" height="56" fill="#0f0f0f" stroke="url(#gold)" filter="url(#glow)"/>
+  <rect x="340" y="75" rx="14" ry="14" width="220" height="56" fill="#0f0f0f" stroke="url(#gold)" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" begin="1s" repeatCount="indefinite" />
+  </rect>
   <text x="450" y="109" text-anchor="middle">Applications & APIs</text>
 
-  <rect x="610" y="40" rx="14" ry="14" width="220" height="56" fill="#0f0f0f" stroke="url(#gold)" filter="url(#glow)"/>
+  <rect x="610" y="40" rx="14" ry="14" width="220" height="56" fill="#0f0f0f" stroke="url(#gold)" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" begin="1.5s" repeatCount="indefinite" />
+  </rect>
   <text x="720" y="74" text-anchor="middle">Security Controls</text>
 
-  <rect x="610" y="110" rx="14" ry="14" width="220" height="56" fill="#0f0f0f" stroke="url(#gold)" filter="url(#glow)"/>
+  <rect x="610" y="110" rx="14" ry="14" width="220" height="56" fill="#0f0f0f" stroke="url(#gold)" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" begin="2s" repeatCount="indefinite" />
+  </rect>
   <text x="720" y="144" text-anchor="middle">Operations & Reliability</text>
 </g>
 
-<!-- Connectors -->
+<!-- Animated Connectors -->
 <g stroke="url(#gold)" stroke-width="2" fill="none" filter="url(#glow)">
-  <path d="M290 68 L340 103"/>
-  <path d="M290 138 L340 103"/>
-  <path d="M560 103 L610 68"/>
-  <path d="M560 103 L610 138"/>
+  <path d="M290 68 L340 103">
+    <animate attributeName="stroke-dasharray" values="0,100;100,0" dur="3s" repeatCount="indefinite" />
+  </path>
+  <path d="M290 138 L340 103">
+    <animate attributeName="stroke-dasharray" values="0,100;100,0" dur="3s" repeatCount="indefinite" />
+  </path>
+  <path d="M560 103 L610 68">
+    <animate attributeName="stroke-dasharray" values="0,100;100,0" dur="3s" repeatCount="indefinite" />
+  </path>
+  <path d="M560 103 L610 138">
+    <animate attributeName="stroke-dasharray" values="0,100;100,0" dur="3s" repeatCount="indefinite" />
+  </path>
 </g>
 
-<!-- Caption -->
 <text x="450" y="200" text-anchor="middle" fill="#bdbdbd" font-size="14">
-  Balanced architecture: every layer is designed together, secured by default, and operated with visibility.
+  Balanced architecture: all layers pulse together as a single system.
 </text>
 ```
 
