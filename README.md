@@ -1,11 +1,9 @@
-<!-- ===================================== -->
-
-<!-- BIGG BOSS | MODERN ANALYTICS EXECUTIVE -->
-
-<!-- ===================================== -->
+<!-- ================================================================ -->
+<!-- BIGG BOSS | FOUNDER & SYSTEMS ARCHITECT | THE BIGG BOSS TECHNOLOGIES -->
+<!-- ================================================================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Bigg+Boss;Founder+%26+Systems+Architect;The+Bigg+Boss+Technologies;Secure+•+Scalable+•+Observable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Bigg+Boss;Founder+%26+Systems+Architect" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -13,110 +11,110 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://biggboss.tech">biggboss.tech</a> • 🐙 <a href="https://github.com/iambiggboss">GitHub</a>
+  🌐 <a href="https://biggboss.tech">biggboss.tech</a> • 🐙 <a href="https://github.com/iambiggboss">GitHub</a> • 📬 <a href="mailto:hello@biggboss.tech">Contact</a>
 </p>
 
 ---
 
-## 🧠 Who I Am
+## 👤 Professional Profile
 
-* **Nickname:** Bigg Boss
-* **Role:** Founder & Systems Architect
-* **Company:** **The Bigg Boss Technologies**
+I am the founder and lead architect at **The Bigg Boss Technologies**. I operate across the entire IT lifecycle—from initial architecture and secure development to infrastructure deployment and operational hardening. My focus is on delivering **real systems for real businesses** that are built to survive pressure, not just pass tests[citation:6].
 
-I operate across the **entire IT lifecycle** — from architecture and development to security, infrastructure, and operations.
+**Core Capabilities:** Secure System Architecture • Cloud & Hybrid Infrastructure • Cybersecurity Hardening • Full-Stack Development • SRE & Observability
 
 ---
 
-## 🏗️ What We Do at The Bigg Boss Technologies
+## 🏗️ What I Build
 
-* Software & web application development
-* Backend systems & APIs
-* Networking & infrastructure engineering
-* Cybersecurity & system hardening
-* Cloud, on-prem & hybrid environments
-* Automation, monitoring & IT support
-
-We build **real systems for real businesses** — not demos.
+| Domain | Key Deliverables |
+|:-------|:-----------------|
+| **Software & APIs** | Web applications, backend services, REST/GraphQL APIs, authentication systems. |
+| **Infrastructure** | Linux servers, cloud (AWS/Azure/GCP), on-premise, networking, firewalls, IaC. |
+| **Security** | Vulnerability analysis, defense-in-depth strategies, system hardening, audit compliance. |
+| **Operations** | Automation (CI/CD), comprehensive monitoring, incident response, reliability engineering. |
 
 ---
 
-## 🔐 Engineering Philosophy
+## 🔬 How I Build It: The Engineering Philosophy
 
-* Assume breach
-* Design for failure
-* Secure by default
-* Observe everything
-* Automate where possible
+> Systems must **survive pressure**, not just pass tests.
 
-Systems must **survive pressure**, not just pass tests.
+My approach is defined by a security-first, resilience-oriented mindset applied to every layer of the stack[citation:1].
 
----
-
-## ⚠️ Failure Scenarios We Design For
-
-* Credential leaks & misconfiguration
-* Network intrusion & lateral movement
-* Application-layer attacks (OWASP Top 10)
-* Partial outages & infrastructure failure
-* Human error & operational mistakes
+*   **Assume Breach & Secure by Default:** Every component is designed with the expectation of failure or attack, implementing principle of least privilege and defense in depth from the start.
+*   **Design for Failure:** Architectures are built for redundancy and graceful degradation. I plan for credential leaks, network intrusion, application-layer attacks (OWASP Top 10), and human error.
+*   **Observe Everything & Automate Relentlessly:** Comprehensive logging, metrics, and tracing are non-negotiable. Wherever possible, manual processes are eliminated through robust automation to reduce risk and increase velocity.
 
 ---
 
-## 🧬 System Thinking (Balanced Full-Stack)
+## 🛠️ Technology & Toolbox
 
-```
-Network → Infrastructure → Applications → Security → Operations
-```
+<p align="left">
+  <!-- Software & Dev -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <br>
+  <!-- Infrastructure & Cloud -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <br>
+  <!-- Security & Observability -->
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elastic Search" />
+</p>
 
-Every layer is designed together, monitored continuously, and secured by design.
+*For a complete list, visit my [Technology Radar](https://biggboss.tech/tech).*
 
 ---
 
-## 📊 Live Engineering Analytics
+## 📈 Activity & Contributions
+
+### GitHub Analytics
+<!-- Consider self-hosting these stats for better reliability and to include private contribution data[citation:3][citation:7] -->
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&show=reviews" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+### Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iambiggboss&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
+---
+
+## 📚 Continuous Learning
+Currently advancing knowledge in:
+*   **CCNA Track:** Deepening enterprise networking and infrastructure foundations.
+*   **Advanced Security:** Research into zero-trust architectures and modern threat mitigation.
+*   **Systems Reliability Engineering (SRE):** Formalizing practices for ultra-available systems.
+
+---
+
+## 🤝 Let's Connect
+Interested in modern, secure, and observable systems? Let's discuss how we can build something resilient together.
+
+**Professional Links:**
+*   **Website & Portfolio:** [biggboss.tech](https://biggboss.tech)
+*   **GitHub:** [github.com/iambiggboss](https://github.com/iambiggboss)
+*   **Email:** [hello@biggboss.tech](mailto:hello@biggboss.tech)
+
+---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambiggboss&layout=compact&theme=tokyonight&hide_border=true" />
+  <sub><i>“The superior engineer builds systems that fail well.”</i></sub>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iambiggboss&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake (Visual Activity)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iambiggboss/iambiggboss/output/github-contribution-grid-snake.svg" />
-</p>
-
-> *Note: requires GitHub Actions enabled in this repo to generate the animation.*
-
----
-
-## 🧰 Core Technology Surface Area
-
-**Software:** Web apps, APIs, authentication systems
-**Infrastructure:** Linux, servers, networking, firewalls
-**Security:** Vulnerability analysis, defense, hardening
-**Operations:** Automation, monitoring, reliability
-
----
-
-## 🎓 Continuous Learning
-
-* CCNA Track (Networking & enterprise foundations)
-* Self-directed learning across systems, security, and software
-
----
-
-## 🚀 Final Note
-
-This profile reflects **how I think and build**, not just tools I use.
-
-If you care about **modern, secure, observable systems**, welcome.
