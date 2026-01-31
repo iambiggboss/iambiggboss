@@ -1,7 +1,14 @@
-# 👋 Hi, I’m BiggBoss
+<!-- ========================= -->
+
+<!--  GitHub Profile – Elite  -->
+
+<!-- ========================= -->
+
+<h1 align="center">Bigg Boss</h1>
+<h3 align="center">Founder • Systems Engineer • Cybersecurity • Full-Stack IT</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+Web+Development+%7C+Networking;Full-Spectrum+IT+%26+Software+Solutions;Security-First+Engineering+Mindset" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Founder+of+The+Bigg+Boss+Technologies;Security-First+Systems+Engineering;Cybersecurity+%7C+Networking+%7C+Software+%7C+Cloud;Building+IT+Solutions+That+Actually+Last" />
 </p>
 
 <p align="center">
@@ -10,150 +17,96 @@
 
 ---
 
-## 🧠 About Me
+## 🧬 Identity
 
-I operate across the **entire IT ecosystem** — cybersecurity, networking, software engineering, systems administration, and enterprise IT solutions. I design and deploy **secure, scalable, and reliable systems** with a security-first mindset.
+I am **Bigg Boss**, founder of **The Bigg Boss Technologies** — operating across **cybersecurity, networking, software engineering, cloud infrastructure, and enterprise IT solutions**.
 
----
-
-## 🧠 How I Approach IT
-
-* Security is foundational, not an afterthought
-* Systems are designed holistically, not in silos
-* Reliability and maintainability beat short-term hype
-* Automation, documentation, and observability matter
-* Solutions must scale under real-world constraints
+I build **secure-by-design systems**, not quick demos. My work focuses on **long-term reliability, maintainability, and real-world security**.
 
 ---
 
-## 🧩 Services & Expertise
+## 🛡️ Engineering Philosophy (Non-Negotiables)
 
-### 🔐 Cybersecurity
-
-* Vulnerability assessment & basic penetration testing
-* Network defense & security hardening
-* Secure system design
-
-### 🌐 Networking
-
-* Routing & switching
-* Network design & infrastructure setup
-* TCP/IP & enterprise networking fundamentals
-
-### 💻 Software & Web
-
-* Secure web applications
-* Backend systems & APIs
-* Software deployment & maintenance
-
-### 🖥️ Systems & IT Solutions
-
-* Linux system administration
-* IT support & troubleshooting
-* Infrastructure setup & technical consulting
+* Security is architecture, not a feature
+* Infrastructure must fail safely
+* Simplicity scales better than complexity
+* Automation without observability is a liability
+* Documentation is part of the system
 
 ---
 
-## 📚 Professional Development
+## 🧠 What I Engineer
 
-* CCNA (Routing, Switching, Network Fundamentals)
-* Hands-on networking & security labs
-* Infrastructure & secure system design
+* Secure web platforms with hardened backends
+* Network infrastructures with defense in depth
+* Linux & server environments built for uptime
+* Software systems aligned with business reality
+* IT ecosystems that can be audited, maintained, and scaled
 
 ---
 
-## 🛠️ Core Technologies & Tools
+## 🧩 The Bigg Boss Technologies — Capabilities
+
+**Cybersecurity**
+• Vulnerability assessment & hardening
+• Network security & defensive architecture
+• Secure system design
+
+**Networking**
+• Routing & switching
+• Infrastructure planning & deployment
+• TCP/IP & enterprise networking
+
+**Software & Web**
+• Secure backend systems & APIs
+• Web platforms & internal tools
+• Deployment & lifecycle management
+
+**Systems & Cloud**
+• Linux & Windows servers
+• Cloud & DevOps foundations
+• Automation & reliability engineering
+
+---
+
+## 🧰 Technology Surface Area
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,git,github,gitlab,bash,powershell,html,css,js,nodejs,python,php,mysql,postgres,mongodb,nginx,apache,docker,kubernetes,aws,cloudflare,terraform,vscode,postman,wireshark,linux" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Networking-TCP%2FIP%20%7C%20Routing%20%7C%20Switching-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Vulnerability%20Analysis%20%7C%20Hardening%20%7C%20Defense-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Systems-Linux%20%7C%20Windows%20%7C%20Servers-000000?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,github,gitlab,bash,powershell,html,css,js,nodejs,python,php,mysql,postgres,mongodb,nginx,apache,docker,kubernetes,aws,cloudflare,terraform,vscode,postman,wireshark" />
 </p>
 
 ---
 
-## 🏢 Company
-
-**BiggBoss Technologies (BiggBoss Tech)**
-🌐 [https://biggboss.tech](https://biggboss.tech)
-
-### 🧩 Services Matrix
-
-✔ Cybersecurity & system hardening
-✔ Networking & infrastructure design
-✔ Software & web solutions
-✔ Cloud, DevOps & automation
-✔ IT support, audits & technical consulting
-
-Delivering **end‑to‑end IT solutions** with a security‑first delivery model.
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iambiggboss&show_icons=true&hide_border=true&theme=transparent" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iambiggboss&hide_border=true&theme=transparent" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambiggboss&layout=compact&hide_border=true&theme=transparent" height="165" />
-</p>
-
----
-
-## 🌌 Contribution Activity (Live)
+## 📊 Operational Footprint
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iambiggboss&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iambiggboss&theme=transparent" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iambiggboss&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iambiggboss&show_icons=true&hide_border=true&theme=transparent" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iambiggboss&hide_border=true&theme=transparent" height="165" />
 </p>
 
 ---
 
-## 🏅 Badges
+## 🧪 Selected Engineering Work (Abstracted)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Networking-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web_Development-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/IT_Solutions-2E8B57?style=for-the-badge" />
-</p>
+* Hardened web platforms with access control & monitoring
+* Secure network deployments with segmentation
+* Server & infrastructure modernization initiatives
+
+*(Details available under NDA or direct collaboration.)*
 
 ---
 
-## 🧪 Selected Work (Highlights)
+## 🤝 Engagement
 
-* **Secure Web Platforms** — hardened backends, access control, and monitoring
-* **Network Deployments** — routing, switching, and secure segmentation
-* **IT Systems Modernization** — Linux servers, automation, and reliability upgrades
+I collaborate on **security-critical systems, infrastructure projects, and serious IT initiatives**.
 
-*(Representative highlights; detailed case studies available on request.)*
-
----
-
-## 🤝 Availability & Collaboration
-
-Open to **consulting, partnerships, and select engineering projects** aligned with security‑first systems and long‑term reliability.
+📍 Company: **The Bigg Boss Technologies**
+🌐 [https://biggboss.tech](https://biggboss.tech)
 
 ---
 
-## 🔗 Connect
-
-* GitHub: [https://github.com/iambiggboss](https://github.com/iambiggboss)
-* Company: [https://biggboss.tech](https://biggboss.tech)
-
----
-
-<p align="center">
-  <i>Engineering secure, scalable, and maintainable systems—built to last.</i>
-</p>
+<p align="center"><i>Designing systems that survive real-world pressure.</i></p>
